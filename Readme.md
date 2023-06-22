@@ -1,6 +1,8 @@
 Orginal branch is private. Here i just show how i step by step do this full system.
 
 
+
+
 ## Branches:
 
 **👥 User:**
@@ -140,3 +142,4 @@ run 👍
 
     yarn start
 
+![My Image](plan.png)
